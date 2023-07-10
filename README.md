@@ -1,1 +1,2 @@
 # Text-to-speech-app
+The Text-to-Speech App is a versatile application developed using .NET framework and C# programming language. This powerful tool enables users to convert written text into speech. Simply enter the desired text, and the software will articulate the content, transforming it into audible speech. Whether for accessibility purposes, language learning, or general convenience, this app provides an efficient and user-friendly solution for converting text into natural-sounding speech.
