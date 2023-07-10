@@ -1,0 +1,12 @@
+C:\Users\FA21-BCS-139.cuilhr\source\repos\text to speech\text to speech\bin\Debug\text to speech.exe.config
+C:\Users\FA21-BCS-139.cuilhr\source\repos\text to speech\text to speech\bin\Debug\text to speech.exe
+C:\Users\FA21-BCS-139.cuilhr\source\repos\text to speech\text to speech\bin\Debug\text to speech.pdb
+C:\Users\FA21-BCS-139.cuilhr\source\repos\text to speech\text to speech\bin\Debug\text to speech.xml
+C:\Users\FA21-BCS-139.cuilhr\source\repos\text to speech\text to speech\obj\Debug\text to speech.vbproj.AssemblyReference.cache
+C:\Users\FA21-BCS-139.cuilhr\source\repos\text to speech\text to speech\obj\Debug\text_to_speech.Form1.resources
+C:\Users\FA21-BCS-139.cuilhr\source\repos\text to speech\text to speech\obj\Debug\text_to_speech.Resources.resources
+C:\Users\FA21-BCS-139.cuilhr\source\repos\text to speech\text to speech\obj\Debug\text to speech.vbproj.GenerateResource.cache
+C:\Users\FA21-BCS-139.cuilhr\source\repos\text to speech\text to speech\obj\Debug\text to speech.vbproj.CoreCompileInputs.cache
+C:\Users\FA21-BCS-139.cuilhr\source\repos\text to speech\text to speech\obj\Debug\text to speech.exe
+C:\Users\FA21-BCS-139.cuilhr\source\repos\text to speech\text to speech\obj\Debug\text to speech.xml
+C:\Users\FA21-BCS-139.cuilhr\source\repos\text to speech\text to speech\obj\Debug\text to speech.pdb
